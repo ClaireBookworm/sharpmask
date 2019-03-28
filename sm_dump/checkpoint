@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:/data/ml/coco/sm_dump\\sharpmask.ckpt"
+all_model_checkpoint_paths: "E:/data/ml/coco/sm_dump\\sharpmask.ckpt"
